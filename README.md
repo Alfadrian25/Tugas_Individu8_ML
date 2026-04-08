@@ -45,6 +45,12 @@ Project ini berisi materi lanjutan OpenCV untuk pengolahan citra digital menggun
 
 ---
 
+## Video Presentasi : 
+
+https://youtu.be/NHaDzXL-JYY?si=Rw-SwEiVLVJAUFMa
+
+---
+
 ## ▶️ Cara Menjalankan
 
 1. Install library:
@@ -70,13 +76,6 @@ Persiapan ke Computer Vision & AI
 
 Pastikan file gambar tersedia (lena.jpg, apple.jpg, dll)
 Gunakan PNG untuk transparansi (Alpha Channel)
-
----
-
-Video Presentasi : 
-
-
---- 
 
 
 👨‍💻 Author
